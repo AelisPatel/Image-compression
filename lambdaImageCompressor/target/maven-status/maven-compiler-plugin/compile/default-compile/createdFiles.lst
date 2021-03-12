@@ -1,0 +1,5 @@
+com\amazonaws\lambda\demo\ImageType.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler$1.class
+com\amazonaws\lambda\demo\database.class
+com\amazonaws\lambda\demo\InputStreamIdentifier.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
